@@ -3,6 +3,7 @@ Description:
 The Notes App for GitHub is a lightweight web application that allows users to create, edit, organize, and manage their notes directly within their GitHub repository. It provides a simple yet effective way for developers, students, and anyone else to jot down ideas, take meeting notes, or keep track of tasks, all while leveraging the collaborative and version control features of GitHub.
 //
 ![fisrt](https://github.com/KunalMali-The-Clever-Programmer/Notes-App/assets/107911019/39b28645-299d-4cc8-a993-db04783718a5)
+![Screenshot (21)](https://github.com/KunalMali-The-Clever-Programmer/Notes-App/assets/107911019/619fa815-fe40-46f8-ab7a-eb36b54df4ec)
 
 Key Features:
 
